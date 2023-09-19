@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Do navigate at Page_dvc-home_tax-form1_tax-form2",
+        "step 2: At Page_dvc-home_tax-form1_tax-form2 click on button_next --> navigate to Page_dvc-home_tax-form1_tax-form2_tax-form3",
+        "step 3: Add visual checkpoint at Page_dvc-home_tax-form1_tax-form2_tax-form3"
+    ]
+}

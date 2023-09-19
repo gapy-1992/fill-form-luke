@@ -15,7 +15,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '/dvc-home/money-form1/m
 
 'step 2: Add visual checkpoint at Page_dvc-home_money-form1_money-form2'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC5-Verify Successful Navigation to Money Form 2 in Money Form 1 Money Form 2 Flow_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC5-Verify Successful Navigation to Money Form 2 in Device Home Page_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

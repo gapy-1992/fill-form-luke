@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Do navigate at Page_dvc-home",
-        "step 2: At Page_dvc-home click on button_tax --> navigate to Page_dvc-home_money-form1",
+        "step 2: At Page_dvc-home click on button_money --> navigate to Page_dvc-home_money-form1",
         "step 3: Add visual checkpoint at Page_dvc-home_money-form1"
     ]
 }

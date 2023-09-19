@@ -1,7 +1,0 @@
-{
-    "steps": [
-        "step 1: Do navigate at Page_home",
-        "step 2: At Page_home click on button_start_flow_1 --> navigate to Page_dvc-login",
-        "step 3: Add visual checkpoint at Page_dvc-login"
-    ]
-}

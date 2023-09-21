@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to Page dvc-home tax-form1 tax-form2",
+        "step 2: At Page dvc-home tax-form1 tax-form2 input on input object",
+        "step 3: At Page dvc-home tax-form1 tax-form2 input on input object",
+        "step 4: At Page dvc-home tax-form1 tax-form2 input on input object",
+        "step 5: At Page dvc-home tax-form1 tax-form2 input on input object",
+        "step 6: At Page dvc-home tax-form1 tax-form2 input on input object",
+        "step 7: At Page dvc-home tax-form1 tax-form2 input on input object",
+        "step 8: At Page dvc-home tax-form1 tax-form2 input on input object",
+        "step 9: At Page dvc-home tax-form1 tax-form2 click on button object --> navigate to Page dvc-home tax-form1 tax-form2 tax-form3",
+        "step 10: Add visual checkpoint at Page dvc-home tax-form1 tax-form2 tax-form3"
+    ]
+}

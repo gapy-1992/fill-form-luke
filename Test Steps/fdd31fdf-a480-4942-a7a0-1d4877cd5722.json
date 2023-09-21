@@ -1,0 +1,24 @@
+{
+    "steps": [
+        "step 1: Navigate to Page contact",
+        "step 2: At Page contact input on input object",
+        "step 3: At Page contact click on span object",
+        "step 4: At Page contact click on span object",
+        "step 5: At Page contact click on span object",
+        "step 6: At Page contact input on input object",
+        "step 7: At Page contact click on button object --> navigate to Page contact step1",
+        "step 8: At Page contact step1 input on input object",
+        "step 9: At Page contact step1 input on input object",
+        "step 10: At Page contact step1 click on input object",
+        "step 11: At Page contact step1 click on button object --> navigate to Page contact step2",
+        "step 12: At Page contact step2 click on input object",
+        "step 13: At Page contact step2 click on input object",
+        "step 14: At Page contact step2 click on input object",
+        "step 15: At Page contact step2 click on input object",
+        "step 16: At Page contact step2 click on input object",
+        "step 17: At Page contact step2 click on input object",
+        "step 18: At Page contact step2 input on textarea object",
+        "step 19: At Page contact step2 click on button object --> navigate to Page contact step3",
+        "step 20: Add visual checkpoint at Page contact step3"
+    ]
+}

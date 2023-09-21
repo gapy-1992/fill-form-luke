@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: At Page home click on button start flow 1 --> navigate to Page dvc-login",
+        "step 3: At Page dvc-login input on input object",
+        "step 4: At Page dvc-login input on input object",
+        "step 5: At Page dvc-login click on button object --> navigate to Page dvc-home",
+        "step 6: Add visual checkpoint at Page dvc-home"
+    ]
+}

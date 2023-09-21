@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to Page dvc-home money-form1",
+        "step 2: At Page dvc-home money-form1 input on input object",
+        "step 3: At Page dvc-home money-form1 click on button object --> navigate to Page dvc-home money-form1 money-form2",
+        "step 4: At Page dvc-home money-form1 money-form2 input on input object",
+        "step 5: At Page dvc-home money-form1 money-form2 click on button object --> navigate to Page dvc-home",
+        "step 6: Add visual checkpoint at Page dvc-home"
+    ]
+}
